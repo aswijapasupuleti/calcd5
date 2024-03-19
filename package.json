@@ -1,0 +1,18 @@
+{
+  "name": "internal",
+  "version": "0.0.0",
+  "main": "calci",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/aswijapasupuleti/calcd5.git"
+  },
+  "keywords": [
+      "calc",
+      "calcpck", "pck"
+  ],
+
+  "dependencies": {},
+  "engines": {
+      "node": ">= 0.8.0"
+  }
+}
